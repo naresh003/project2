@@ -1,0 +1,6 @@
+projectKey=sonar1:com.sonarmaven1
+serverUrl=http://fri.bang.com:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://fri.bang.com:9000/dashboard/index/sonar1:com.sonarmaven1
+ceTaskId=AWYB-Ll_zrIOZCd1zIeo
+ceTaskUrl=http://fri.bang.com:9000/api/ce/task?id=AWYB-Ll_zrIOZCd1zIeo
